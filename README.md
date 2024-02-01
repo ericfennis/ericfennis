@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a web software engineer from the Netherlands. I’m the creator and maintainer of [Lucide icons](https://github.com/lucide-icons/lucide). Currently working for [Nedap Healthcare](https://github.com/nedap), creating software for healthcare in the Netherlands.
+
+Working on creating high-end user interfaces for the web. And find my interest in working on complex applications with large architectures and data flows. I like to build this with the latest web technologies like Vue, React, NextJS, Nuxt, Svelte, and Vite.
+
+Besides my work, I maintain Lucide Icons an open-source icon library. I’ve created packages for React, Vue, Svelte, Solid, and more, to create the best developer experience for using icons in applications. In the last few years, Lucide has been rapidly growing 🚀.
+
+
 <!--
 **ericfennis/ericfennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
